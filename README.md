@@ -5,8 +5,6 @@ manufacturing company. Built from scratch on the MERN stack (MongoDB, Express,
 React, Node.js). Manage a lead pipeline with drag-and-drop stages, log client
 communication, track deal value, and view team performance.
 
-> Built as a technical assessment submission. All code is original.
-
 ---
 
 ## Features
