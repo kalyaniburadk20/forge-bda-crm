@@ -61,7 +61,7 @@ bda-crm/
 │   │   ├── dashboardRoutes.js
 │   │   └── userRoutes.js
 │   ├── server.js               # App entry point
-│   ├── .env.example
+│   ├── .env
 │   └── package.json
 │
 └── client/                     # React (Vite) app
